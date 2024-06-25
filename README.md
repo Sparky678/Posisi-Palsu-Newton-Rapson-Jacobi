@@ -1,1 +1,1 @@
-Repository ini berisi program C++ untuk berbagai metode dalam perhitungan numerik
+Repository ini berisi program C++ untuk metode posisi palsu, newton-rapson, dan jacobi
